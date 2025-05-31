@@ -19,3 +19,5 @@ Permainan Tic Tac Toe yang sederhana dan interaktif yang dibuat dengan HTML, CSS
 - HTML5
 - CSS3
 - JavaScript
+
+# @tahun pembuatan 2022
